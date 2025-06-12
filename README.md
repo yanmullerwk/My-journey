@@ -7,7 +7,7 @@ No entanto, como a vida nem sempre segue o roteiro que a gente planeja, acabei m
 
 Hoje, estou de volta. Mais focado, mais consciente do meu objetivo e, acima de tudo, com muita vontade de evoluir como desenvolvedor full-stack. Estou mergulhando de cabeça para recuperar o tempo longe, consolidar as bases e construir projetos que mostrem meu progresso e minha dedicação.
 
-Este repositório é o inicio dessa jornada. Aqui você vai encontrar minhas ideias, tentativas, aprendizados e, claro, linhas de código que representam não só o que eu sei — mas principalmente, quem eu quero me tornar.
+Este repositório é o inicio dessa jornada. Aqui você vai encontrar minhas ideias, tentativas, aprendizados e, claro, linhas de código que representam não só o que eu sei, mas principalmente, quem eu quero me tornar.
 
 # My journey [ENGLISH]
 Hi, My name is Yan, nice to meet you. I’d like to share a bit of my story.
